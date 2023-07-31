@@ -1,2 +1,2 @@
-let yourArray=["janu",'kajal',17101109008,true,false,007,'sonu'];
+const yourArray=["janu",'kajal',17101109008,true,false,007,'sonu'];
 console.log(yourArray.length);
